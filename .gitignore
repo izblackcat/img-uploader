@@ -1,0 +1,7 @@
+backend/.gitattributes
+backend/.gitignore
+backend/.mvn/
+
+frontend/.editorconfig
+frontend/.gitignore
+frontend/.vscode/
